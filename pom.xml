@@ -33,7 +33,7 @@
   </modules>
 
   <parent>
-    <groupId>io.vertx</groupId>
+    <groupId>org.casbin</groupId>
     <artifactId>vertx-ext-parent</artifactId>
     <version>34</version>
   </parent>
